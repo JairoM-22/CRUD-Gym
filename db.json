@@ -1,0 +1,134 @@
+{
+  "dias": [
+    {
+      "id": 1,
+      "nombre": "Lunes",
+      "ejercicios": [
+        {
+          "id": 1,
+          "nombre": "Press de banca",
+          "grupoMuscular": "Pecho",
+          "series": 4,
+          "reps": 8,
+          "peso": 80
+        },
+        {
+          "id": 2,
+          "nombre": "Fondos",
+          "grupoMuscular": "Triceps",
+          "series": 3,
+          "reps": 12,
+          "peso": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Martes",
+      "ejercicios": [
+        {
+          "id": 3,
+          "nombre": "Dominadas",
+          "grupoMuscular": "Espalda",
+          "series": 4,
+          "reps": 8,
+          "peso": 0
+        },
+        {
+          "id": 4,
+          "nombre": "Remo con barra",
+          "grupoMuscular": "Espalda",
+          "series": 4,
+          "reps": 10,
+          "peso": 70
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Miercoles",
+      "ejercicios": [
+        {
+          "id": 5,
+          "nombre": "Sentadilla",
+          "grupoMuscular": "Piernas",
+          "series": 4,
+          "reps": 8,
+          "peso": 100
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Jueves",
+      "ejercicios": [
+        {
+          "id": 6,
+          "nombre": "Press militar",
+          "grupoMuscular": "Hombros",
+          "series": 4,
+          "reps": 10,
+          "peso": 50
+        },
+        {
+          "id": 7,
+          "nombre": "Elevaciones laterales",
+          "grupoMuscular": "Hombros",
+          "series": 3,
+          "reps": 15,
+          "peso": 12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Viernes",
+      "ejercicios": [
+        {
+          "id": 8,
+          "nombre": "Curl con barra",
+          "grupoMuscular": "Biceps",
+          "series": 4,
+          "reps": 12,
+          "peso": 35
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Sabado",
+      "ejercicios": [
+        {
+          "id": 9,
+          "nombre": "Peso muerto",
+          "grupoMuscular": "Espalda",
+          "series": 4,
+          "reps": 6,
+          "peso": 120
+        },
+        {
+          "id": 10,
+          "nombre": "Dominadas supinas",
+          "grupoMuscular": "Espalda",
+          "series": 3,
+          "reps": 10,
+          "peso": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Domingo",
+      "ejercicios": [
+        {
+          "id": 11,
+          "nombre": "Cardio caminadora",
+          "grupoMuscular": "Cardio",
+          "series": 1,
+          "reps": 30,
+          "peso": 0
+        }
+      ]
+    }
+  ]
+}
